@@ -127,15 +127,3 @@ bd.update_yaml_file(class_path / '_toc.yml', toc)
 
 #TBD Make it so that notebooks will show up in _toc.yml. 
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
